@@ -11,9 +11,14 @@ namespace RPSLS
         //constructor
         public Game()
         {
-
+        
         }
         
         //member methods
+        public void RunGame()
+        {
+            
+        }
+
     }
 }
